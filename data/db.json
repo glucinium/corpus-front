@@ -1,0 +1,284 @@
+{
+  "tutorials": [
+    {
+      "id": 0,
+      "title": "Azeaze",
+      "description": "blalblab",
+      "published": true
+    },
+    {
+      "id": 1,
+      "title": "azeazeazezeazeaz",
+      "description": "azazeazeazeaze",
+      "published": true
+    },
+    {
+      "title": "Tutorial 1",
+      "description": "Aeazeazea",
+      "id": 2
+    },
+    {
+      "ref": 0,
+      "name": "aeazeaze",
+      "serie": 0,
+      "modified": "",
+      "description": "azeaze",
+      "price": "3",
+      "status": "1",
+      "image_url": "/img/zgTuckAAptvuHzK2bpe1QpWzjeLhAtVLtllAelFe.jpeg",
+      "id": 3
+    },
+    {
+      "ref": 0,
+      "name": "PlouPlou",
+      "serie": 0,
+      "modified": "",
+      "description": "azeaze",
+      "price": "3",
+      "status": "1",
+      "image_url": "/img/zgTuckAAptvuHzK2bpe1QpWzjeLhAtVLtllAelFe.jpeg",
+      "id": 4
+    },
+    {
+      "title": "PLOPLOU",
+      "description": "azeaze",
+      "id": 5
+    }
+  ],
+  "status": [
+    {
+      "id": 0,
+      "name": "validé"
+    },
+    {
+      "id": 1,
+      "name": "En attente de validation"
+    },
+    {
+      "id": 2,
+      "name": "Supprimé"
+    }
+  ],
+  "artworks": [
+    {
+      "id": 0,
+      "ref": 94010,
+      "name": "Portrait1",
+      "description": "lorem ipqsdp oazepo azpoazeaeo",
+      "price": 350,
+      "serie": null,
+      "status": 1,
+      "modified": "12/12/2021",
+      "image_url": "/img/zgTuckAAptvuHzK2bpe1QpWzjeLhAtVLtllAelFe.jpeg"
+    },
+    {
+      "id": 1,
+      "ref": 94010,
+      "name": "Portrait 2",
+      "description": "lorem ipqsdp oazepo azpoazeaeo",
+      "price": 350,
+      "serie": null,
+      "status": 1,
+      "modified": "12/12/2021",
+      "image_url": "/img/zgTuckAAptvuHzK2bpe1QpWzjeLhAtVLtllAelFe.jpeg"
+    },
+    {
+      "id": 2,
+      "ref": 94010,
+      "name": "Portrait 3",
+      "description": "lorem ipqsdp oazepo azpoazeaeo",
+      "price": 350,
+      "serie": null,
+      "status": 1,
+      "modified": "12/12/2021",
+      "image_url": "/img/zgTuckAAptvuHzK2bpe1QpWzjeLhAtVLtllAelFe.jpeg"
+    },
+    {
+      "id": 3,
+      "ref": 94010,
+      "name": "Portrait1",
+      "description": "lorem ipqsdp oazepo azpoazeaeo",
+      "price": 350,
+      "serie": null,
+      "status": 1,
+      "modified": "12/12/2021",
+      "image_url": "/img/zgTuckAAptvuHzK2bpe1QpWzjeLhAtVLtllAelFe.jpeg"
+    },
+    {
+      "id": 4,
+      "ref": 94010,
+      "name": "Portrait 2",
+      "description": "lorem ipqsdp oazepo azpoazeaeo",
+      "price": 350,
+      "serie": null,
+      "status": 1,
+      "modified": "12/12/2021",
+      "image_url": "/img/zgTuckAAptvuHzK2bpe1QpWzjeLhAtVLtllAelFe.jpeg"
+    },
+    {
+      "id": 5,
+      "ref": 94010,
+      "name": "Portrait 3",
+      "description": "lorem ipqsdp oazepo azpoazeaeo",
+      "price": 350,
+      "serie": null,
+      "status": 1,
+      "modified": "12/12/2021",
+      "image_url": "/img/zgTuckAAptvuHzK2bpe1QpWzjeLhAtVLtllAelFe.jpeg"
+    },
+    {
+      "id": 6,
+      "ref": 94010,
+      "name": "Portrait1",
+      "description": "lorem ipqsdp oazepo azpoazeaeo",
+      "price": 350,
+      "serie": null,
+      "status": 1,
+      "modified": "12/12/2021",
+      "image_url": "/img/zgTuckAAptvuHzK2bpe1QpWzjeLhAtVLtllAelFe.jpeg"
+    },
+    {
+      "id": 7,
+      "ref": 94010,
+      "name": "Portrait 2",
+      "description": "lorem ipqsdp oazepo azpoazeaeo",
+      "price": 350,
+      "serie": null,
+      "status": 1,
+      "modified": "12/12/2021",
+      "image_url": "/img/zgTuckAAptvuHzK2bpe1QpWzjeLhAtVLtllAelFe.jpeg"
+    },
+    {
+      "id": 8,
+      "ref": 94010,
+      "name": "Portrait 3",
+      "description": "lorem ipqsdp oazepo azpoazeaeo",
+      "price": 350,
+      "serie": null,
+      "status": 1,
+      "modified": "12/12/2021",
+      "image_url": "/img/zgTuckAAptvuHzK2bpe1QpWzjeLhAtVLtllAelFe.jpeg"
+    },
+    {
+      "ref": "12",
+      "name": "azeaze",
+      "serie": 0,
+      "modified": "",
+      "description": "Aeze",
+      "price": "azeazeaz",
+      "status": "1",
+      "image_url": "/img/zgTuckAAptvuHzK2bpe1QpWzjeLhAtVLtllAelFe.jpeg",
+      "id": 9
+    },
+    {
+      "ref": "12",
+      "name": "azeaze",
+      "serie": 0,
+      "modified": "",
+      "description": "Aeze",
+      "price": "azeazeaz",
+      "status": "1",
+      "image_url": "/img/zgTuckAAptvuHzK2bpe1QpWzjeLhAtVLtllAelFe.jpeg",
+      "id": 10
+    },
+    {
+      "ref": "12",
+      "name": "azeaze",
+      "serie": 0,
+      "modified": "",
+      "description": "Aeze",
+      "price": "azeazeaz",
+      "status": "1",
+      "image_url": "/img/zgTuckAAptvuHzK2bpe1QpWzjeLhAtVLtllAelFe.jpeg",
+      "id": 11
+    },
+    {
+      "ref": 0,
+      "name": "Ma Gueule",
+      "serie": 0,
+      "modified": "",
+      "description": "DAZZEze",
+      "price": 0,
+      "status": 0,
+      "image_url": "/img/zgTuckAAptvuHzK2bpe1QpWzjeLhAtVLtllAelFe.jpeg",
+      "id": 12
+    },
+    {
+      "ref": 0,
+      "name": "Ma Gueule",
+      "serie": 0,
+      "modified": "",
+      "description": "DAZZEze",
+      "price": 0,
+      "status": 0,
+      "image_url": "/img/zgTuckAAptvuHzK2bpe1QpWzjeLhAtVLtllAelFe.jpeg",
+      "id": 13
+    },
+    {
+      "ref": 0,
+      "name": "azeazeazeaze",
+      "serie": 0,
+      "modified": "",
+      "description": "12112123",
+      "price": 0,
+      "status": 2,
+      "image_url": "/img/zgTuckAAptvuHzK2bpe1QpWzjeLhAtVLtllAelFe.jpeg",
+      "id": 14
+    },
+    {
+      "ref": 0,
+      "name": "azeazeazeaze",
+      "serie": 0,
+      "modified": "",
+      "description": "12112123",
+      "price": 0,
+      "status": 0,
+      "image_url": "/img/zgTuckAAptvuHzK2bpe1QpWzjeLhAtVLtllAelFe.jpeg",
+      "id": 15
+    },
+    {
+      "ref": 0,
+      "name": "XXXXX",
+      "serie": 0,
+      "modified": "",
+      "description": "12112123",
+      "price": 0,
+      "status": 1,
+      "image_url": "/img/zgTuckAAptvuHzK2bpe1QpWzjeLhAtVLtllAelFe.jpeg",
+      "id": 16
+    },
+    {
+      "ref": 0,
+      "name": "",
+      "serie": 0,
+      "modified": "",
+      "description": "",
+      "price": 0,
+      "status": 1,
+      "image_url": "/img/zgTuckAAptvuHzK2bpe1QpWzjeLhAtVLtllAelFe.jpeg",
+      "id": 17
+    },
+    {
+      "ref": 0,
+      "name": "",
+      "serie": 0,
+      "modified": "",
+      "description": "",
+      "price": 0,
+      "status": 0,
+      "image_url": "/img/zgTuckAAptvuHzK2bpe1QpWzjeLhAtVLtllAelFe.jpeg",
+      "id": 18
+    },
+    {
+      "ref": "RF123123",
+      "name": "Portrait du Pape",
+      "serie": 0,
+      "modified": "",
+      "description": "Ballazelazel",
+      "price": "300",
+      "status": 0,
+      "image_url": "/img/zgTuckAAptvuHzK2bpe1QpWzjeLhAtVLtllAelFe.jpeg",
+      "id": 19
+    }
+  ]
+}
